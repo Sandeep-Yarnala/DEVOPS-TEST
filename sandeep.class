@@ -1,4 +1,5 @@
 class ganesh
          {
-         print ln ('This is test for DEVOPS tutorial')
-         }   
+	 print ln ('This is test for DEVOPS tutorial')
+         println ('Ths is the 2nd test deployment')
+	 }   
